@@ -1,14 +1,25 @@
+#SimpleCalculater
+#Developed and Designed by Jaspreet Singh 
+
+#import libraries
 from tkinter import *
 
+
+#global representation
 button1 = []
 button2 = []
+i = 0
 for i in range(8, -1, -1):
     button1.append(i)
-    # print(i)
+    
 
 for i in range(5,-1,-1):
     button2.append(i)
     print(i)
+
+#FUNCTION HERE
+#Calculation here
+#You can add more function division and multiplication here
 def data(event):
     value = event.widget.cget("text")
 
@@ -30,9 +41,10 @@ def data(event):
         editText.update()
 
 
-i = 0
 
 
+#Theme Changing you can change your or add your custom theme here
+#For Custom Change just change bg or fg with your colur combination
 def change():
     global i
     i = i + 1
@@ -56,6 +68,9 @@ def change():
             button2[k].config(bg="white", fg="black")
         editText.config(bg="white", fg="black")
 
+
+
+#Main Function(Entry point of first execution) 
 root = Tk()
 Cvalue = StringVar()
 Cvalue.set("DarkMode")
