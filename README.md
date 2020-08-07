@@ -22,4 +22,8 @@ v1.0
 ## Authors
 
 Jaspreet Singh
+
+</br>
+## More info
 github url = https://github.com/jaspreetsidhu3
+linked in = https://www.linkedin.com/in/jaspreetsidhu13/
