@@ -23,7 +23,9 @@ v1.0
 
 Jaspreet Singh
 
+
+<h3>More info</h3>
+
+Github = https://github.com/jaspreetsidhu3
 </br>
-## More info
-github url = https://github.com/jaspreetsidhu3
-linked in = https://www.linkedin.com/in/jaspreetsidhu13/
+Linked in = https://www.linkedin.com/in/jaspreetsidhu13/
